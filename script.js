@@ -122,4 +122,3 @@ chatForm.addEventListener("submit", async (e) => {
     addMessage("⚠️ Error: Unable to reach the server. Try again.", "ai");
   }
 });
-
